@@ -1,15 +1,22 @@
 import requests
+import sys
 from services.weather_service import set_state, get_url
-from ui.ui import print_weather
+from ui.ui import print_weather, WeatherApp
+from PyQt5.QtWidgets import QApplication
 
 def main():
     state = ""
     city = ""
 
+    app = QApplication(sys.argv)
+    window = WeatherApp()
+    window.show()
+    sys.exit(app.exec_())
+
     while(True):
         state = input("Ingrese una provincia de Argentina: ")
         try:
-            set_state(state)
+            state = set_state(state)
             break
         except ValueError as error:
             print(error)
