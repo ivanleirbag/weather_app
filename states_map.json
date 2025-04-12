@@ -1,98 +1,27 @@
 {
-    "buenosaires": {
-        "path": "cities/buenos_aires.json",
-        "name": "Buenos Aires"
-    },
-    "catamarca": {
-        "path": "cities/catamarca.json",
-        "name": "Catamarca"
-    },
-    "chaco": {
-        "path": "cities/chaco.json",
-        "name": "Chaco"
-    },
-    "chubut": {
-        "path": "cities/chubut.json",
-        "name": "Chubut"
-    },
-    "cordoba": {
-        "path": "cities/cordoba.json",
-        "name": "Córdoba"
-    },
-    "corrientes": {
-        "path": "cities/corrientes.json",
-        "name": "Corrientes"
-    },
-    "entrerios": {
-        "path": "cities/entre_rios.json",
-        "name": "Entre Ríos"
-    },
-    "formosa": {
-        "path": "cities/formosa.json",
-        "name": "Formosa"
-    },
-    "jujuy": {
-        "path": "cities/jujuy.json",
-        "name": "Jujuy"
-    },
-    "lapampa": {
-        "path": "cities/la_pampa.json",
-        "name": "La Pampa"
-    },
-    "larioja": {
-        "path": "cities/la_rioja.json",
-        "name": "La Rioja"
-    },
-    "mendoza": {
-        "path": "cities/mendoza.json",
-        "name": "Mendoza"
-    },
-    "misiones": {
-        "path": "cities/misiones.json",
-        "name": "Misiones"
-    },
-    "neuquen": {
-        "path": "cities/neuquen.json",
-        "name": "Neuquén"
-    },
-    "rionegro": {
-        "path": "cities/rio_negro.json",
-        "name": "Río Negro"
-    },
-    "salta": {
-        "path": "cities/salta.json",
-        "name": "Salta"
-    },
-    "sanjuan": {
-        "path": "cities/san_juan.json",
-        "name": "San Juan"
-    },
-    "sanluis": {
-        "path": "cities/san_luis.json",
-        "name": "San Luis"
-    },
-    "santacruz": {
-        "path": "cities/santa_cruz.json",
-        "name": "Santa Cruz"
-    },
-    "santafe": {
-        "path": "cities/santa_fe.json",
-        "name": "Santa Fe"
-    },
-    "santiagodelestero": {
-        "path": "cities/santiago_del_estero.json",
-        "name": "Santiago del Estero"
-    },
-    "tierradelfuego": {
-        "path": "cities/tierra_del_fuego.json",
-        "name": "Tierra del Fuego"
-    },
-    "tucuman": {
-        "path": "cities/tucuman.json",
-        "name": "Tucumán"
-    },
-    "caba": {
-        "path": "cities/caba.json",
-        "name": "Ciudad Autónoma de Buenos Aires"
-    }
+    "Buenos Aires": "cities/buenos_aires.json",
+    "Catamarca": "cities/catamarca.json",
+    "Chaco": "cities/chaco.json",
+    "Chubut": "cities/chubut.json",
+    "Córdoba": "cities/cordoba.json",
+    "Corrientes": "cities/corrientes.json",
+    "Entre Ríos": "cities/entre_rios.json",
+    "Formosa": "cities/formosa.json",
+    "Jujuy": "cities/jujuy.json",
+    "La Pampa": "cities/la_pampa.json",
+    "La Rioja": "cities/la_rioja.json",
+    "Mendoza": "cities/mendoza.json",
+    "Misiones": "cities/misiones.json",
+    "Neuquén": "cities/neuquen.json",
+    "Río Negro": "cities/rio_negro.json",
+    "Salta": "cities/salta.json",
+    "San Juan": "cities/san_juan.json",
+    "San Luis": "cities/san_luis.json",
+    "Santa Cruz": "cities/santa_cruz.json",
+    "Santa Fe": "cities/santa_fe.json",
+    "Santiago del Estero": "cities/santiago_del_estero.json",
+    "Tierra del Fuego": "cities/tierra_del_fuego.json",
+    "Tucumán": "cities/tucuman.json",
+    "Ciudad Autónoma de Buenos Aires": "cities/caba.json"
+    
 }

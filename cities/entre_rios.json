@@ -1,77 +1,62 @@
 {
-    "concordia": {
-        "name": "Concordia",
+    "Concordia": {
         "lat": -31.4,
         "lon": -58.02
     },
-    "parana": {
-        "name": "Paraná",
+    "Paraná": {
         "lat": -31.74,
         "lon": -60.52
     },
-    "gualeguaychu": {
-        "name": "Gualeguaychú",
-        "lat": -33.01, 
+    "Gualeguaychú": {
+        "lat": -33.01,
         "lon": -58.52
     },
-    "gualeguay": {
-        "name": "Guleguay",
-        "lat": -33.14, 
+    "Guleguay": {
+        "lat": -33.14,
         "lon": -59.31
     },
-    "lapaz": {
-        "name": "La Paz",
+    "La Paz": {
         "lat": -30.74,
         "lon": -59.65
     },
-    "federal": {
-        "name": "Federal",
-        "lat": -30.95, 
+    "Federal": {
+        "lat": -30.95,
         "lon": -58.78
     },
-    "villaguay": {
-        "name": "Villaguay",
-        "lat": -31.86, 
+    "Villaguay": {
+        "lat": -31.86,
         "lon": -59.03
     },
-    "chajari": {
-        "name": "Chajarí",
-        "lat": -30.75, 
+    "Chajarí": {
+        "lat": -30.75,
         "lon": -57.98
     },
-    "sanjose": {
-        "name": "San José",
-        "lat": -32.22, 
+    "San José": {
+        "lat": -32.22,
         "lon": -58.22
     },
-    "concepciondeluruguay": {
-        "name": "Concepción del Uruguay",
-        "lat": -32.48, 
+    "Concepción del Uruguay": {
+        "lat": -32.48,
         "lon": -58.24
     },
-    "diamante": {
-        "name": "Diamante",
-        "lat": -32.07, 
+    "Diamante": {
+        "lat": -32.07,
         "lon": -60.65
     },
-    "nogoya": {
-        "name": "Nogoyá",
-        "lat": -32.39, 
+    "Nogoyá": {
+        "lat": -32.39,
         "lon": -59.79
     },
-    "victoria": {
-        "name": "Victoria",
-        "lat": -32.62, 
+    "Victoria": {
+        "lat": -32.62,
         "lon": -60.16
     },
-    "rosariodeltala": {
-        "name": "Rosario del Tala",
-        "lat": -32.3, 
+    "Rosario del Tala": {
+        "lat": -32.3,
         "lon": -59.13
     },
-    "colon": {
-        "name": "Colón",
-        "lat": -32.22, 
+    "Colón": {
+        "lat": -32.22,
         "lon": -58.14
     }
 }
